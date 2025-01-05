@@ -1,4 +1,5 @@
-# California Housing Price Prediction using Linear Regression
+# Local changes to README.md
+# California-House-Price
 
 ### Software and tools Requirements
 
@@ -17,4 +18,6 @@ conda create -p cali python==3.10 -y
 
 
 
+
+=======
 
