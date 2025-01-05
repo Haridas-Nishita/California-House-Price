@@ -14,10 +14,3 @@
 conda create -p cali python==3.10 -y
 
 '''
-
-
-
-
-
-=======
-
